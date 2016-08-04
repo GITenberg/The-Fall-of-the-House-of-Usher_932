@@ -1,0 +1,54 @@
+_repo: The-Fall-of-the-House-of-Usher_932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: "\"The Fall of the House of Usher\" is a short story by Edgar Allan Poe\
+  \ first published in 1839.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Movie Books
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '932'
+  wikidata: Q1197735
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcsh 'Gothic fiction (Literary genre)'
+- GITenberg
+title: The Fall of the House of Usher
+url: http://www.gutenberg.org/ebooks/932
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D9%88%D8%B7_%D8%AE%D8%A7%D9%86%D9%87_%D8%A2%D8%B4%D8%B1
+- https://ru.wikisource.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%BC%D0%B0_%D0%90%D1%88%D0%B5%D1%80%D0%BE%D0%B2_(%D0%9F%D0%BE)
+- https://vi.wikipedia.org/wiki/S%E1%BB%B1_s%E1%BB%A5p_%C4%91%E1%BB%95_c%E1%BB%A7a_d%C3%B2ng_h%E1%BB%8D_Usher
+- https://en.wikisource.org/wiki/The_Fall_of_the_House_of_Usher
+- https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E5%AE%B6%E3%81%AE%E5%B4%A9%E5%A3%8A
+- https://pt.wikipedia.org/wiki/A_Queda_da_Casa_de_Usher
+- https://es.wikipedia.org/wiki/La_ca%C3%ADda_de_la_Casa_Usher
+- https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%BC%D0%B0_%D0%90%D1%88%D0%B5%D1%80%D0%BE%D0%B2
+- https://ro.wikipedia.org/wiki/Pr%C4%83bu%C8%99irea_Casei_Usher
+- https://fr.wikipedia.org/wiki/La_Chute_de_la_maison_Usher_(nouvelle)
+- https://sh.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher
+- https://zh.wikipedia.org/wiki/%E5%8E%84%E8%88%8D%E5%BA%9C%E7%9A%84%E6%B2%92%E8%90%BD
+- https://pl.wikipedia.org/wiki/Zag%C5%82ada_domu_Usher%C3%B3w
+- https://simple.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher
+- https://sv.wikipedia.org/wiki/Huset_Ushers_underg%C3%A5ng
+- https://ar.wikipedia.org/wiki/%D8%B3%D9%82%D9%88%D8%B7_%D8%A8%D9%8A%D8%AA_%D8%A3%D8%B4%D8%B1
+- https://cs.wikipedia.org/wiki/Z%C3%A1nik_domu_Usher%C5%AF
+- https://de.wikipedia.org/wiki/Der_Untergang_des_Hauses_Usher
+- https://eu.wikipedia.org/wiki/Usher_Etxearen_hondamena
+- https://it.wikipedia.org/wiki/La_caduta_della_casa_degli_Usher
+- https://ca.wikipedia.org/wiki/La_caiguda_de_la_Casa_Usher
